@@ -6,6 +6,8 @@ This plugin was created as part of a research project with a focus on analysing 
 
 Other Wireshark plugins will have better ongoing support for Matter such as https://github.com/wireshark!
 
+Please see the included screenshots if you want to see what the plugin shows without having to run it!
+
 # Setup
 
 Adding Lua plugin: In wireshark go to 'Help->About Wireshark', select 'Folders' tab, and navigate to 'Personal Lua Plugins' folder.
